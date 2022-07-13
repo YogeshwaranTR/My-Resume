@@ -7,7 +7,7 @@ class Project extends React.Component{
             }
             render(){
                 return(
-                    <div><a href='https://github.com/YogeshwaranTR/My-Resume' >project</a></div>
+                    <div><a href='https://github.com/YogeshwaranTR/My-Resume/' >project</a></div>
                 )}
             }
 export default Project;

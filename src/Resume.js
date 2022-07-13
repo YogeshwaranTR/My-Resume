@@ -170,7 +170,7 @@ super();
                             </li>
                      </ul>
                      <div className='text-center' style={{padding:"30px"}}>
-                copywrite ©  yuhan 2022
+                copywrite ©  YogeshwaranTR 2022
             </div>
                     </div>
                 
